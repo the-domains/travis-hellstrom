@@ -1,6 +1,6 @@
 name: Travis HEllstrom
 favicon: null
-layout_spectrum: 0.2560285683721304
+layout_spectrum: 0
 typography_spectrum: 0.652310447068885
 title: Travis Hellstrom
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5122634198050946
+    - '#808080'
+    - '#414141'
+    - '#b3b3b3'
+    - '#030303'
+    - '#d8d8d8'
+  brandStrength: 0.1875
   lightness: 0.5774333809968084
   saturation: 0.39505929267033935
   rhythmicContrast: 0.9105432846117765

@@ -1,0 +1,28 @@
+name: Travis HEllstrom
+favicon: null
+layout_spectrum: 0.2560285683721304
+typography_spectrum: 0.652310447068885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5122634198050946
+  lightness: 0.5774333809968084
+  saturation: 0.39505929267033935
+  rhythmicContrast: 0.9105432846117765
+purpose: []

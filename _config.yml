@@ -19,7 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Travis HEllstrom
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c8de472-a140-4ae0-9bdf-3b2b829d68d9.png
+name: Travis Hellstrom
 cta:
   domain: null
   bucket: null
